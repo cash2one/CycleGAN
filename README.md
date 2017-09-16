@@ -1,2 +1,2 @@
 # CycleGAN
-Unsupervised image to image translation using CycleGAN. PyTorch implementation.
+Image to image translation using CycleGAN + supervised + pretrain. PyTorch implementation.
